@@ -1,0 +1,8 @@
+@media (max-width: 991px) {
+  header .top-header {
+    display: none;
+  }
+  header .search-trend {
+    display: none;
+  }
+}

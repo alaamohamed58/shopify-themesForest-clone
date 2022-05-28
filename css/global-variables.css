@@ -1,0 +1,15 @@
+:root {
+  --font-family-default: "Open Sans", sans-serif;
+  --font-family--primary: "Open Sans", sans-serif;
+  --orange-color: #f0620c;
+  --danger: #da432a;
+  --active-menu: #07192c;
+  --disActive-menu: #21374c;
+  --color-body-text: #da432a;
+  --color-heading: #222222;
+  --color-badge-sale: #ff6868;
+  --light-blue: #587b9d;
+  --pen-color: #0b2239;
+  --color-body-text: #666666;
+  --color-heading-three: #444444;
+}
